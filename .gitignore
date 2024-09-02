@@ -1,0 +1,41 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Windows specific logs
+*.log
+
+# Windows hibernation file
+hiberfil.sys
+
+# Windows paging file
+pagefile.sys
+
+# Windows system file
+sysfile.sys
+
+# Hidden files
+*.~
+*.swp
+*.swo
+
+# Windows backup files
+*.bak
+
+# Icon and shortcut cache
+Icon?
